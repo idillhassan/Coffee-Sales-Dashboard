@@ -9,6 +9,7 @@
 ​Data Cleaning and Preparation: The project began with a raw dataset, which was prepared for accurate analysis and visualization.
 ​Key Performance Indicator (KPI) Calculation: Used formulas to derive key metrics such as Total Sales, Total Profit, and Overall Profit Margin.
 ​Data Visualization: Created a variety of charts and graphs to represent key metrics, including line charts for sales trends, bar charts for regional performance, and donut charts for category analysis.
+
 ​Interactive Dashboards: Designed and built a professional dashboard to present key insights from the data in an organized and easy-to-read layout.
 ​Dashboard Aesthetics: Utilized a specific color palette, consistent fonts, and thoughtful spacing to create a clean, elegant, and visually beautiful dashboard.
 
