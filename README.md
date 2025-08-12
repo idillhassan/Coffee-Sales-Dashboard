@@ -20,7 +20,9 @@
 ​Regional Performance: The dashboard allows for a quick comparison of sales and profit across different regions to identify top-performing markets.
 ​Product Performance: A breakdown of sales by product category highlights the most popular and profitable coffee products.
 ​Customer Analysis: The dashboard identifies top customers, allowing for better-targeted marketing and relationship management.
+
 ​Project Files
+
 Coffee Orders Dataset.xlsx: The raw uncleaned dataset used as the source for the analysis.
 ​coffeeOrderProject.xlsx: The final Excel file containing the cleaned data, analysis, and the completed interactive dashboard.
 
